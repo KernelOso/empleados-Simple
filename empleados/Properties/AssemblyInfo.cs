@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("empleados")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ReviOS 10 23.12")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("empleados")]
-[assembly: AssemblyCopyright("Copyright © ReviOS 10 23.12 2024")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
